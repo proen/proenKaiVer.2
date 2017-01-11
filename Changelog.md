@@ -41,3 +41,22 @@
 		ので自分が納得できる様な処理を追加してもらえると助かります。
 
 #### 記述者 : 牛山 拓成, 記述日 : 2017年01月01日(日) 午前2時28分
+***
+* 追加内容
+	- Material'/Game/Geometry/Materials/' に, 赤・緑・青のマテリアルを作成
+		し, 追加しました。
+	- StaticMesh'/Game/Geometry/Meshes/SM_ItemTestMesh.SM_ItemTestMesh'
+	を作成し, 追加しました。 レベル上に置いてある丸形の Mesh です。
+	- WidgetBlueprint'/Game/BP/BP_Widget.BP_Widget' の処理にアイテム表示
+		処理を追加しました。
+	- レベルブループリントにアイテム表示処理を追加しました。
+
+* bugfix
+	- なし。
+
+* 参考サイト
+	- [StaticMesh への色つけ参考サイト](http://colorcube.jugem.cc/?eid=223)
+	- [UE4 での命名規則参考サイト](https://wiki.unrealengine.com/Assets_Naming_Convention_JP)
+	- [配列ノード | Unreal Engine](https://docs.unrealengine.com/latest/JPN/Engine/Blueprints/UserGuide/Arrays/ArrayNodes/index.html)
+
+#### 記述者 : 牛山 拓成, 記述日 : 2017年01月11日(水) 午前9時02分
